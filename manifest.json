@@ -1,5 +1,5 @@
 {
-    "name": "com.ubuntu.developer.nikwen.ubuntu-go-qml-template",
+    "name": "ubuntu-go-qml-template.dawndiy",
     "description": "description of ubuntu-go-qml-template",
     "architecture": "armhf",
     "title": "ubuntu-go-qml-template",
@@ -10,7 +10,7 @@
         }
     },
     "version": "0.1",
-    "maintainer": "Niklas Wenzel <nikwen.developer@gmail.com>",
+    "maintainer": "DawnDIY <chenglu1990@gmail.com>",
     "framework" : "ubuntu-sdk-14.10"
 }
 
